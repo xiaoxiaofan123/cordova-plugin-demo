@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="https://github.com/xiaoxiaofan123/cordova-plugin-demo"
+        id="cordova-plugin-demo" version="1.0.0">
+    <name>Demo</name>
+    <description>Cordova Plugin Demo</description>
+    <license>Cordova</license>
+    <keywords>cordova,demo</keywords>
+</plugin>
