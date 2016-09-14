@@ -5,7 +5,7 @@
     <description>Cordova Plugin Demo</description>
     <license>Cordova</license>
     <keywords>cordova,demo</keywords>
-</plugin>
+
 
 <js-module src="www/Demo.js" name="Demo">
         <clobbers target="cordova.demoPlugin" />
@@ -20,4 +20,6 @@
 
         <header-file src="src/ios/ESDemo.h" />
         <source-file src="src/ios/ESDemo.m" />
-    </platform>
+ </platform>
+
+</plugin>
